@@ -1,0 +1,7 @@
+meta:
+{ fio , age , class , avg mark , avg mark , }
+data:
+{ Gatsa MV  , 17  , 11I  , 2.1  , 2.1  , }
+{ Klimov IA  , 17  , 11I , 1.2  , 1.2  , }
+{ Ivanishuk AV  , 60  , 10B  , 5.0  , 5.0  , }
+{ Kozlov DA , 35 , 10I  , 4.5  , 4.5  , }
